@@ -4,6 +4,7 @@
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix obo: <http://purl.obolibrary.org/obo/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix wdata: <http://www.wikidata.org/wiki/Special:EntityData/> .
 @prefix p: <http://www.wikidata.org/prop/> .
 
 <urn:mdciii:1603:16()>
@@ -28,149 +29,174 @@
     obo:BFO_0000124 <urn:mcdiii:1603:16:584:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:584:1:1" ;
-    skos:prefLabel "Ailinglaplap"@eng-Latn .
+    skos:prefLabel "Ailinglaplap"@eng-Latn ;
+    wdata:q7200235 "MH01" .
 
 <urn:mdciii:1603:16:584:1:10>
     obo:BFO_0000124 <urn:mcdiii:1603:16:584:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:584:1:10" ;
-    skos:prefLabel "Kili"@eng-Latn .
+    skos:prefLabel "Kili"@eng-Latn ;
+    wdata:q7200235 "MH10" .
 
 <urn:mdciii:1603:16:584:1:11>
     obo:BFO_0000124 <urn:mcdiii:1603:16:584:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:584:1:11" ;
-    skos:prefLabel "Kwajalein"@eng-Latn .
+    skos:prefLabel "Kwajalein"@eng-Latn ;
+    wdata:q7200235 "MH11" .
 
 <urn:mdciii:1603:16:584:1:12>
     obo:BFO_0000124 <urn:mcdiii:1603:16:584:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:584:1:12" ;
-    skos:prefLabel "Lae"@eng-Latn .
+    skos:prefLabel "Lae"@eng-Latn ;
+    wdata:q7200235 "MH12" .
 
 <urn:mdciii:1603:16:584:1:13>
     obo:BFO_0000124 <urn:mcdiii:1603:16:584:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:584:1:13" ;
-    skos:prefLabel "Lib"@eng-Latn .
+    skos:prefLabel "Lib"@eng-Latn ;
+    wdata:q7200235 "MH13" .
 
 <urn:mdciii:1603:16:584:1:14>
     obo:BFO_0000124 <urn:mcdiii:1603:16:584:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:584:1:14" ;
-    skos:prefLabel "Likiep"@eng-Latn .
+    skos:prefLabel "Likiep"@eng-Latn ;
+    wdata:q7200235 "MH14" .
 
 <urn:mdciii:1603:16:584:1:15>
     obo:BFO_0000124 <urn:mcdiii:1603:16:584:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:584:1:15" ;
-    skos:prefLabel "Majuro"@eng-Latn .
+    skos:prefLabel "Majuro"@eng-Latn ;
+    wdata:q7200235 "MH15" .
 
 <urn:mdciii:1603:16:584:1:16>
     obo:BFO_0000124 <urn:mcdiii:1603:16:584:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:584:1:16" ;
-    skos:prefLabel "Maloelap"@eng-Latn .
+    skos:prefLabel "Maloelap"@eng-Latn ;
+    wdata:q7200235 "MH16" .
 
 <urn:mdciii:1603:16:584:1:17>
     obo:BFO_0000124 <urn:mcdiii:1603:16:584:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:584:1:17" ;
-    skos:prefLabel "Mejit"@eng-Latn .
+    skos:prefLabel "Mejit"@eng-Latn ;
+    wdata:q7200235 "MH17" .
 
 <urn:mdciii:1603:16:584:1:18>
     obo:BFO_0000124 <urn:mcdiii:1603:16:584:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:584:1:18" ;
-    skos:prefLabel "Mili"@eng-Latn .
+    skos:prefLabel "Mili"@eng-Latn ;
+    wdata:q7200235 "MH18" .
 
 <urn:mdciii:1603:16:584:1:19>
     obo:BFO_0000124 <urn:mcdiii:1603:16:584:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:584:1:19" ;
-    skos:prefLabel "Namdrik"@eng-Latn .
+    skos:prefLabel "Namdrik"@eng-Latn ;
+    wdata:q7200235 "MH19" .
 
 <urn:mdciii:1603:16:584:1:2>
     obo:BFO_0000124 <urn:mcdiii:1603:16:584:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:584:1:2" ;
-    skos:prefLabel "Ailuk"@eng-Latn .
+    skos:prefLabel "Ailuk"@eng-Latn ;
+    wdata:q7200235 "MH02" .
 
 <urn:mdciii:1603:16:584:1:20>
     obo:BFO_0000124 <urn:mcdiii:1603:16:584:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:584:1:20" ;
-    skos:prefLabel "Namu"@eng-Latn .
+    skos:prefLabel "Namu"@eng-Latn ;
+    wdata:q7200235 "MH20" .
 
 <urn:mdciii:1603:16:584:1:21>
     obo:BFO_0000124 <urn:mcdiii:1603:16:584:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:584:1:21" ;
-    skos:prefLabel "Rongelap"@eng-Latn .
+    skos:prefLabel "Rongelap"@eng-Latn ;
+    wdata:q7200235 "MH21" .
 
 <urn:mdciii:1603:16:584:1:22>
     obo:BFO_0000124 <urn:mcdiii:1603:16:584:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:584:1:22" ;
-    skos:prefLabel "Ujae"@eng-Latn .
+    skos:prefLabel "Ujae"@eng-Latn ;
+    wdata:q7200235 "MH22" .
 
 <urn:mdciii:1603:16:584:1:24>
     obo:BFO_0000124 <urn:mcdiii:1603:16:584:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:584:1:24" ;
-    skos:prefLabel "Utirik"@eng-Latn .
+    skos:prefLabel "Utirik"@eng-Latn ;
+    wdata:q7200235 "MH24" .
 
 <urn:mdciii:1603:16:584:1:25>
     obo:BFO_0000124 <urn:mcdiii:1603:16:584:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:584:1:25" ;
-    skos:prefLabel "Wotho"@eng-Latn .
+    skos:prefLabel "Wotho"@eng-Latn ;
+    wdata:q7200235 "MH25" .
 
 <urn:mdciii:1603:16:584:1:26>
     obo:BFO_0000124 <urn:mcdiii:1603:16:584:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:584:1:26" ;
-    skos:prefLabel "Wotje"@eng-Latn .
+    skos:prefLabel "Wotje"@eng-Latn ;
+    wdata:q7200235 "MH26" .
 
 <urn:mdciii:1603:16:584:1:3>
     obo:BFO_0000124 <urn:mcdiii:1603:16:584:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:584:1:3" ;
-    skos:prefLabel "Arno"@eng-Latn .
+    skos:prefLabel "Arno"@eng-Latn ;
+    wdata:q7200235 "MH03" .
 
 <urn:mdciii:1603:16:584:1:4>
     obo:BFO_0000124 <urn:mcdiii:1603:16:584:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:584:1:4" ;
-    skos:prefLabel "Aur"@eng-Latn .
+    skos:prefLabel "Aur"@eng-Latn ;
+    wdata:q7200235 "MH04" .
 
 <urn:mdciii:1603:16:584:1:5>
     obo:BFO_0000124 <urn:mcdiii:1603:16:584:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:584:1:5" ;
-    skos:prefLabel "Eneu"@eng-Latn .
+    skos:prefLabel "Eneu"@eng-Latn ;
+    wdata:q7200235 "MH05" .
 
 <urn:mdciii:1603:16:584:1:6>
     obo:BFO_0000124 <urn:mcdiii:1603:16:584:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:584:1:6" ;
-    skos:prefLabel "Ebon"@eng-Latn .
+    skos:prefLabel "Ebon"@eng-Latn ;
+    wdata:q7200235 "MH06" .
 
 <urn:mdciii:1603:16:584:1:7>
     obo:BFO_0000124 <urn:mcdiii:1603:16:584:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:584:1:7" ;
-    skos:prefLabel "Enewetak"@eng-Latn .
+    skos:prefLabel "Enewetak"@eng-Latn ;
+    wdata:q7200235 "MH07" .
 
 <urn:mdciii:1603:16:584:1:8>
     obo:BFO_0000124 <urn:mcdiii:1603:16:584:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:584:1:8" ;
-    skos:prefLabel "Jabat"@eng-Latn .
+    skos:prefLabel "Jabat"@eng-Latn ;
+    wdata:q7200235 "MH08" .
 
 <urn:mdciii:1603:16:584:1:9>
     obo:BFO_0000124 <urn:mcdiii:1603:16:584:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:584:1:9" ;
-    skos:prefLabel "Jaluit"@eng-Latn .
+    skos:prefLabel "Jaluit"@eng-Latn ;
+    wdata:q7200235 "MH09" .
 
